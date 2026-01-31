@@ -1,0 +1,21 @@
+[
+  {
+    "Author": "Nilah Valoryn",
+    "Name": "Auto Party Finder",
+    "InternalName": "AutoPartyFinder",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Automates refreshing a Party Finder listing.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/nilah-xiv/AutoPartyFinder",
+    "Tags": [ "partyfinder", "automation" ],
+    "Punchline": "Refreshes your Party Finder listing on a timer.",
+    "Changelog": "-Initial release \n- Love, ",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/nilah-xiv/AutoPartyFinder/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/nilah-xiv/AutoPartyFinder/main/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/nilah-xiv/AutoPartyFinder/main/icon.ico",
+    "ImageUrls": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IsTestingPlugin": false
+  }
+]

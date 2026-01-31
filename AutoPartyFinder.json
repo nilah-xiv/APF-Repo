@@ -1,0 +1,19 @@
+{
+  "Author": "Nilah Valoryn",
+  "Name": "Auto Party Finder",
+  "InternalName": "AutoPartyFinder",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Automates refreshing a Party Finder listing.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "partyfinder",
+    "automation"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Refreshes your Party Finder listing on a timer.",
+  "AcceptsFeedback": true
+}
