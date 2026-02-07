@@ -2,7 +2,7 @@
   "Author": "Nilah Valoryn",
   "Name": "Auto Party Finder",
   "InternalName": "AutoPartyFinder",
-  "AssemblyVersion": "1.3.1.0",
+  "AssemblyVersion": "1.3.2.0",
   "Description": "Automates refreshing a Party Finder listing.",
   "ApplicableVersion": "any",
   "Tags": [
