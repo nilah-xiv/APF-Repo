@@ -9,7 +9,7 @@
     "RepoUrl": "https://github.com/nilah-xiv/AutoPartyFinder",
     "Tags": [ "partyfinder", "automation" ],
     "Punchline": "Refreshes your Party Finder listing on a timer.",
-    "Changelog": "Fixed Lines 1 & 2 Max Length.  \n- Love, ",
+    "Changelog": "Fixed Lines 1 & 2 Max Length. \n Added Warning. \n- Love, ",
     "DownloadLinkInstall": "https://github.com/nilah-xiv/APF-Repo/raw/main/latest.zip",
     "DownloadLinkUpdate": "https://github.com/nilah-xiv/APF-Repo/raw/main/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/nilah-xiv/AutoPartyFinder/main/icon.ico",
